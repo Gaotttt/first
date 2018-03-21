@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Thanks for God!"<<endl;
+    return 0;
+}
